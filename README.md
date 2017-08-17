@@ -9,6 +9,6 @@ https://lvyidan.github.io/h5--peach/Test.html
 
 
 #如图#
-![Image text](https://raw.github.com/lvyidan/repositpry/master/h5-peach/images/show.jpg)
+![Image text](http://github.com/lvyidan/h5--peach/raw/master/images/show.jpg)
 
 # H5 grunt 
