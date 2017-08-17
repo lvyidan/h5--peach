@@ -1,4 +1,4 @@
- 
+s 
 #Author：lvyidan#
 #三四十十里桃花#
 
@@ -13,3 +13,5 @@ https://lvyidan.github.io/h5--peach/Test.html
 
 
 # H5 grunt 
+
+手机端触摸翻页，也可以pc端点击翻页
